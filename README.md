@@ -1,5 +1,5 @@
 
-# Classification of hand movement based on sEMG signal processing using CNN
+# Classification of hand movement based on sEMG signal processing and using CNN
 
   Recognition of hand movements based on surface EMG signal processing (sEMG) has become a promising approach for upper limb neuroprosthesis control.
 The application of deep learning to sEMG data is a relatively new field of research aimed at finding adequate commercial prostheses that can enable movement
